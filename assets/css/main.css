@@ -2747,11 +2747,14 @@ input[type="radio"]:focus + label:before {
   width: 100%;
 }
 
+/* AJOUT */
+
 .image.profile {
   display: flex;
   flex-flow: row wrap;
   justify-content: center;
   width: 100%;
+  margin-bottom: 40px;
 }
 
 .image.profile img {
