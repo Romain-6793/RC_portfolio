@@ -2685,6 +2685,17 @@ input[type="radio"]:focus + label:before {
   font-family: "Font Awesome 5 Brands";
 }
 
+/* Assets */
+
+.asset {
+  margin-left: 15px;
+  text-decoration: none;
+  border-bottom: none;
+  position: relative;
+}
+
+/* //////// */
+
 /* Image */
 
 .image {
@@ -2758,7 +2769,7 @@ input[type="radio"]:focus + label:before {
 }
 
 .image.profile img {
-  width: 80%;
+  width: 70%;
 }
 
 @media screen and (max-width: 736px) {
